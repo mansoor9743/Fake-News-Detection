@@ -1,0 +1,11 @@
+
+
+Title: Fake News Detection
+
+Data that we use for this project is the 'LIAR' dataset, a public available fake news detection corpus. I have uploaded a zip file with the data. Download it to the folder having the 'fake_news_detection.ipynb' jupyter notebook. It contains 3 TSV files namely train.tsv, test.tsv and valid.csv.
+
+The data can also be downloaded online from 'https://sites.cs.ucsb.edu/~william/data/liar_dataset.zip'.
+
+License: The data has been made publicly available by the creator and hence does not need any license.
+
+Acknowledgments: William Wang for creating the LIAR dataset by collecting a decade long 12.8k manually labelled short statements from Politifact.com
