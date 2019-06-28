@@ -1,5 +1,6 @@
 # Natural Language Processing NLP
-## Fake news Detection
+## Fake news Detection:
+The proliferation of fake news in recent times has led to more focused research in computational tools able to identify reliable and trustworthy news. In this project we analyse and implement machine learning models for automatic fake news detection. We use the LIAR dataset, a publicly available dataset collected by William Wang ( Wang, 2017 [1] ) consisting of 12.8k manually labelled short statements from Politifact.com. We use various pre-processing, vectorisation, parameter tuning methods across a range of classifiers to identufy fake news.
 ### Getting started: 
 Download the 'Fake_news_detection.ipynb' Jupyter Notebook file and the data into a folder on your system. Unzip the contents of the data zip file. It consists of 3 TSV (tab separated) files. From terminal CD into the folder and launch Jupyter notebook. You can view the results of the code already run by me in the notebook. To rerun the code run 'restart and run all' from the notebook. The entire notebook will take approximately 80 minutes to execute.
 
@@ -21,7 +22,7 @@ Data that we use for this project is the 'LIAR' dataset, a public available fake
 The data can also be downloaded online from [LIAR Dataset](https://sites.cs.ucsb.edu/~william/data/liar_dataset.zip)
 
 ### References: 
-* Wang, W. (2019). ”Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection. [online] arXiv.org. Available at: https://arxiv.org/abs/1705.00648 [Accessed 2 May 2019]
+* Wang, W. (2019). ”Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection. [online] arXiv.org. Available at: https://arxiv.org/abs/1705.00648
 * Wang, W.Sites.cs.ucsb.edu.https://sites.cs.ucsb.edu/ william/papers/acl 2017. pdf
 * Horne, B. and Adalı, S. (2017). This Just In: Fake News Packs a Lot in Title, Uses Simpler, Repetitive Content in Text Body, More Similar to Satire than Real News. [online] Arxiv.org. Available at: https://arxiv.org/pdf/1703.09398.
 * Rubin, V. L. (2017). Deception Detection and Rumor Debunking for Social Media. In Sloan, L. & Quan-Haase, A. (Eds.) (2017) The SAGE Handbook of Social Media Research Methods, London: SAGE. https://uk.sagepub.com/en-gb/eur/the- sage-handbook-of-social-mediaresearch- methods/book245370
@@ -32,7 +33,7 @@ The data can also be downloaded online from [LIAR Dataset](https://sites.cs.ucsb
 * Long, Y., Lu, Q., Xiang, R., Li, M. and Huang, C. (2017). Fake News Detection Through Multi-Perspective Speaker Pro- files. [online] Aclweb.org. Available at: https://aclweb.org/anthology/I17-2043.
 * Conroy, N., Chen, Y. and Rubin, V. (2015). Deception Detection for News: Three Types of Fakes. [online] Available at: https://onlinelibrary.wiley.com/doi/pdf/10. 1002 /pra2.2015.145052010083.
 * Piccione, A. line] GitHub.(n.d.).[on- Available at:https://github.com/mikanikos/ADA Project/ blob /master/Data Analysis.ipynb.
-* PolitiFact. (2019). Fact-checking U.S. pol- itics — PolitiFact. [online] Available at: https://www.politifact.com/.
+* PolitiFact. (2019). Fact-checking U.S. pol- itics — PolitiFact. [online] Available at: (https://www.politifact.com/)
 * Patel, n. (2019). nishitpatel01-Fake News Detection. [online] GitHub. Available at: https://github.com/nishitpatel01/Fake News Detection.
 * Fotache, C. (2018). Text Classification in Python: Pipelines, NLP, NLTK, Tf-Idf, XG- Boost and more. [online] Medium. Available at: https://medium.com/@chrisfotache/text- classification-in-python-pipelines-nlp-nltk- tf-idf-xgboost-and-more-b83451a327e0.
 * Bedi, G. (2018). Simple guide to Text Clas- sification(NLP) using SVM and Naive Bayes with Python. [online] Medium. Available at: https://medium.com/@bedigunjit/simple- guide-to-text-classification-nlp-using-svm- and-naive-bayes-with-python-421db3a72d34.
