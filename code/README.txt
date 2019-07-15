@@ -14,7 +14,3 @@ For installing XGradientBoost algorithm classifier please refer 'https://xgboost
 Note: A simple 'pip3 install xgboost' will install it most of the times. If not then please refer the above link.	
 
 License: All the libraries and python code are open-source.
-	
-
-Acknowledgements: 
-I have extensively used the code from the Applied Data Mining SCC-413 labs. Other references can be found in the report.
